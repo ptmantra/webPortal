@@ -17,12 +17,12 @@
       <![CDATA[Test Completed >> Gerenating Reports ..]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-08-23T15:14:03Z" name="Suite" finished-at="2022-08-23T15:14:21Z" duration-ms="17879">
+  <suite started-at="2022-08-23T16:31:27Z" name="Suite" finished-at="2022-08-23T16:31:46Z" duration-ms="18834">
     <groups>
     </groups>
-    <test started-at="2022-08-23T15:14:03Z" name="Test" finished-at="2022-08-23T15:14:21Z" duration-ms="17879">
+    <test started-at="2022-08-23T16:31:27Z" name="Test" finished-at="2022-08-23T16:31:46Z" duration-ms="18834">
       <class name="testcases.Login">
-        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T15:14:03Z" name="setUpSuite" finished-at="2022-08-23T15:14:03Z" duration-ms="539" status="PASS">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T16:31:27Z" name="setUpSuite" finished-at="2022-08-23T16:31:27Z" duration-ms="704" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Setting up reports and the test is getting ready ..]]>
@@ -32,7 +32,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpSuite -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T15:14:03Z" name="setUp" finished-at="2022-08-23T15:14:08Z" duration-ms="4974" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T16:31:27Z" name="setUp" finished-at="2022-08-23T16:31:33Z" duration-ms="5953" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Setting up the browser and the application ..]]>
@@ -42,11 +42,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginApplication()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T15:14:08Z" name="loginApplication" finished-at="2022-08-23T15:14:20Z" duration-ms="11369" status="PASS">
+        <test-method signature="loginApplication()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T16:31:33Z" name="loginApplication" finished-at="2022-08-23T16:31:45Z" duration-ms="11366" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApplication -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T15:14:20Z" name="tearDownMethod" finished-at="2022-08-23T15:14:20Z" duration-ms="534" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T16:31:45Z" name="tearDownMethod" finished-at="2022-08-23T16:31:45Z" duration-ms="558" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T15:14:20Z" name="tearDown" finished-at="2022-08-23T15:14:21Z" duration-ms="981" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Login@f99f5e0]" started-at="2022-08-23T16:31:45Z" name="tearDown" finished-at="2022-08-23T16:31:46Z" duration-ms="936" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
